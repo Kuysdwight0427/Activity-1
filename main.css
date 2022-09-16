@@ -67,7 +67,16 @@ ul.bc-policy-logo {
     list-style-image:url("policy.jpg");
     margin-left:20px;
 }
-  
+
+ul.bc-policy-logo3 {
+    list-style-image:url("policies 3.png");
+    margin-left:20px;
+}
+
+ul.bc-policy-logo4 {
+    list-style-image:url("policies 4.png");
+    margin-left:20px;
+}
 
 .form-container {
     float: right;    
