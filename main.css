@@ -68,14 +68,19 @@ ul.bc-policy-logo {
     margin-left:20px;
 }
 
-ul.bc-policy-logo3 {
+ul.bc-policy-logo li:nth-child(3) {
     list-style-image:url("policies 3.png");
-    margin-left:20px;
+    margin-left:-2px;
 }
 
-ul.bc-policy-logo4 {
+ul.bc-policy-logo li:nth-child(4) {
     list-style-image:url("policies 4.png");
-    margin-left:20px;
+    margin-left:-3px;
+}
+
+ul.bc-policy-logo li:nth-child(5) {
+    list-style-image:url("policies 5.png");
+    margin-left:-4px;
 }
 
 .form-container {
